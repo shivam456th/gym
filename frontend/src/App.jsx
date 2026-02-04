@@ -14,14 +14,14 @@ function App() {
       {/* Global Noise Texture */}
       <div className="fixed inset-0 z-[100] pointer-events-none opacity-[0.03] bg-[url('https://grainy-gradients.vercel.app/noise.svg')]"></div>
       
-      <Navbar />
-      <Hero />
-      <Features />
-      <DiscoverSection />
-      <TrainSection />
-      <ExperienceSection />
-      <Testimonials />
-      <Footer />
+      // <Navbar />
+      // <Hero />
+      // <Features />
+      // <DiscoverSection />
+      // <TrainSection />
+      // <ExperienceSection />
+      // <Testimonials />
+      // <Footer />
     </main>
   );
 }
